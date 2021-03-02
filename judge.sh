@@ -1,2 +1,0 @@
-cd ~/projects/atcoder
- f
