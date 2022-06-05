@@ -5,7 +5,6 @@ fn main() {
         n: i32
     }
     let mut v = vec![];
-    // let mut v: Vec<Vec<i32>> = Vec::new();
     for i in 0..n as usize {
         let v2: Vec<i32> = Vec::new();
         v.push(v2);
